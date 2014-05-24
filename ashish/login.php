@@ -1,0 +1,3 @@
+<?php 
+echo this is login php file to use this for the login perposes in the application device manager.......
+?>
